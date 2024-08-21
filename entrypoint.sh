@@ -22,4 +22,4 @@ chmod 777 /app/*
 
 sleep 10
 
-cd /app && ./one.sh
+cd /app && ./three.sh
